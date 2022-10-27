@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4ix7guit3ow8qqh4?svg=true)](https://ci.appveyor.com/project/Irytsch/aqa-hw2-3-1-testmode)git 
